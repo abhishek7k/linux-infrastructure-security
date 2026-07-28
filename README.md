@@ -1,4 +1,4 @@
-# Linux Infrastructure & Security Lab (Apr 2024 – Jun 2024)
+# Linux Infrastructure & Security Lab
 
 This project configures a virtualized security testing and system hardening lab. It defines an infrastructure consisting of an **Arch Linux target server** and a **Kali Linux audit/attacker node**, connected over an isolated private network. It includes automated shell scripts to apply system hardening policies (ensuring least privilege and configuration compliance) and audit the system against security compliance rules.
 
